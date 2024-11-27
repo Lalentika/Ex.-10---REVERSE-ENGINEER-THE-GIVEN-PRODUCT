@@ -35,8 +35,25 @@
 ### Output:
 
 
-### Name:
-### Register Number:
+
+![Screenshot 2024-11-27 110127](https://github.com/user-attachments/assets/836e1492-96f3-45bb-a9d2-3f2bc199ba6b)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Name:Lalentika Twisha M
+### Register Number:24003575
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
